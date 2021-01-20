@@ -1,0 +1,238 @@
+
+.content{
+    
+    /* background: url(images/bg-slid-p2.jpg) no-repeat center center fixed;  */
+
+    /* background-size: cover; */
+    background: #fff;
+
+
+}
+
+.header{
+
+    background: #000066;
+    color: #fff;
+    padding: 12px;
+    margin-top: 60px;
+}
+
+.header-myworks{
+    background: #000066;
+    color: #fff;
+    padding: 12px;
+    margin-top: 60px;
+
+}
+
+.header-imag-setting{
+
+    padding: 10px;
+border: 2px solid #ffcc00;
+    border-radius: 80% !important;
+    width: 280px !important;
+    height: 280px !important;
+}
+
+
+.header-imag2-setting{
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: -15px -15px 15px rgba(255,255,255,0.2),
+                  15px 15px 15px rgba(0,0,0,0.1), 
+                  inset -15px -15px 15px rgba(255,255,255,0.2),
+                   inset 15px 15px 15px rgba(0,0,0,0.1);
+    
+}
+
+.header-imag3-setting{
+
+
+    height:350px !important;
+    width: 350px !important;
+  border-radius: 15px;
+    box-shadow: -15px -15px 15px rgba(255,255,255,0.2),
+                  15px 15px 15px rgba(0,0,0,0.1), 
+                  inset -15px -15px 15px rgba(255,255,255,0.2),
+                   inset 15px 15px 15px rgba(0,0,0,0.1);
+  
+
+}
+
+.heading-left-text1{
+
+
+}
+
+.nav-slid-setting{
+
+    background: rgba(0, 0, 102,0.5) !important;
+    color: #fff !important;
+    margin-bottom: 10px;
+}
+
+
+
+
+.heading-left-text1{
+    color: #ffcc00;
+}
+
+.btn-class-setting{
+
+
+}
+
+.btn-class-setting:hover{
+
+    background: #ffcc00 !important;
+    color: #fff !important;
+    font-weight: 800 !important;
+box-shadow:  -15px -15px 15px rgba(255,255,255,0.3),
+              15px 15px 15px rgba(0,0,0,0.3),
+              inset -15px -15px 15px rgba(255,255,255,0.3),
+              inset 15px 15px 15px rgba(0,0,0,0.3);
+
+    
+}
+
+
+.myservice-setting{
+    background: #000066;
+    color: #fff;
+    padding: 105px;
+    margin-top: 180px !important;
+
+}
+
+
+.myworks-setting{
+    padding: 100px;
+    margin-top: 5px !important;
+    color: #000066;
+
+}
+
+.myworks-page2-setting{
+    padding: 100px;
+    margin-top: 5px !important;
+    color: #000066;
+
+}
+
+
+
+.crasol-pic-setting{
+    height: 200px !important;
+     width: 400px !important;
+     border-radius: 5%;
+}
+
+footer{
+
+    
+    background: #000066;
+    color: #fff;
+    padding-top: 5px;
+
+}
+
+
+.footer h5 {
+    color: #fff;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.footer input {
+    width: 60%;
+    background: transparent;
+    outline: none;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    padding: 5px;
+    color: #fff;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+::placeholder {
+    color: #efefef;
+    font-size: 14px;
+}
+
+.footer button {
+    /* padding: 6px; */
+    width: 180px;
+    margin: auto;
+    display: block;
+    color: #fff;
+
+    font-size: 20px;
+    background: transparent;
+}
+
+.footer small {
+    font-size: 14px;
+    padding: 15px;
+    padding-bottom: 10px;
+    color: #fff;
+    display: block;
+}
+
+.work-video-setting{
+    padding: 100px !important;
+    margin-top: 180px !important;
+}
+
+
+.works-header-prew-border1{
+
+    width: 600px !important;
+    height: 600px !important;
+}
+
+#image{
+    line-height:650px;
+		width: 565px;
+    height: 300px;
+		border:5px solid;
+		margin:0 auto;
+    background-color: #8e68ff;
+    background-image: url('images/bg-slid-p2.jpg');
+    background-repeat: no-repeat;
+    color:#FFFFFF;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:5px;
+    font-size: 150%;
+    background-size: cover;
+}
+
+
+.crasol-pic-setting-mywork{
+
+    /* height: 200px !important;
+    width: 400px !important;
+    border-radius: 5%; */
+
+    width:250px !important;
+    height:200px !important;
+    background-size:cover;
+    display:inline-block;
+    border-radius:16px;
+    margin:4px;
+    margin-top: 10px;
+    box-shadow:0 0 16px rgba(0,0,0,0.5);
+    cursor:pointer;
+    position:relative;
+
+
+}
+.aboutme{
+    color: #000066;
+}
+
+.brand-text-setting{
+    font-weight: bold;
+}
